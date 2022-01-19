@@ -49,7 +49,9 @@
     <Compile Include="Cooperativa\Clases\Bus.cs" />
     <Compile Include="Cooperativa\Clases\BusMarca.cs" />
     <Compile Include="Cooperativa\Clases\BusModelo.cs" />
+    <Compile Include="Cooperativa\Clases\Cliente.cs" />
     <Compile Include="Cooperativa\Clases\Cooperativa.cs" />
+    <Compile Include="Cooperativa\Clases\Encomienda.cs" />
     <Compile Include="Cooperativa\Clases\Socios.cs" />
     <Compile Include="Cooperativa\Formularios\CooperativaAgregar.cs">
       <SubType>Form</SubType>

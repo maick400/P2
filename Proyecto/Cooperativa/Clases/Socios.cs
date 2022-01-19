@@ -23,7 +23,7 @@ namespace Proyecto.Cooperativa.Clases
         string fechainicio { get; set; }
 
         /*funciones*/
-        public DataTable listarsocios()
+        public DataTable Listarsocios()
         {
             return new DataTable();
         }
