@@ -46,10 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cooperativa\Clases\Boleto.cs" />
     <Compile Include="Cooperativa\Clases\Bus.cs" />
     <Compile Include="Cooperativa\Clases\BusMarca.cs" />
     <Compile Include="Cooperativa\Clases\BusModelo.cs" />
+    <Compile Include="Cooperativa\Clases\Chofer.cs" />
     <Compile Include="Cooperativa\Clases\Cooperativa.cs" />
+    <Compile Include="Cooperativa\Clases\Destinos.cs" />
+    <Compile Include="Cooperativa\Clases\DestinosRuta.cs" />
+    <Compile Include="Cooperativa\Clases\Oficinista.cs" />
+    <Compile Include="Cooperativa\Clases\Personal.cs" />
+    <Compile Include="Cooperativa\Clases\Ruta.cs" />
     <Compile Include="Cooperativa\Formularios\CooperativaAgregar.cs">
       <SubType>Form</SubType>
     </Compile>
