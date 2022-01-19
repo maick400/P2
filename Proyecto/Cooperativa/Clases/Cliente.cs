@@ -23,7 +23,7 @@ namespace Proyecto.Cooperativa.Clases
         public string tiposangre { get; set; }
 
         /*funciones*/
-        public DataTable Listarsocios()
+        public DataTable Listarcliente()
         {
             return new DataTable();
         }

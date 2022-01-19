@@ -1,0 +1,11 @@
+C:\Users\vale\Documents\GitHub\P4\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\vale\Documents\GitHub\P4\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\vale\Documents\GitHub\P4\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\vale\Documents\GitHub\P4\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\vale\Documents\GitHub\P4\Proyecto\obj\Debug\Proyecto.Cooperativa.Formularios.CooperativaAgregar.resources
+C:\Users\vale\Documents\GitHub\P4\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\vale\Documents\GitHub\P4\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\vale\Documents\GitHub\P4\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\vale\Documents\GitHub\P4\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\vale\Documents\GitHub\P4\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\vale\Documents\GitHub\P4\Proyecto\obj\Debug\Proyecto.pdb
